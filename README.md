@@ -14,4 +14,4 @@ Este es un proyecto de practica para aprender sobre git y github
 4. Crea un Pull Request para revisión.
 
 ## EJECUTAR EL PROYECTO
-Este proyecto solo tiene un archivo de texto como ejemplo. puedes abrirlo con cualquier editor
+Este proyecto solo tiene un archivo de texto como ejemplo. puedes abrirlo con cualquier editor.
